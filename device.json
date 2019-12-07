@@ -1,0 +1,15 @@
+{
+    "device" : [
+        {
+            "deviceName" : "router",
+            "deviceAddress" : "192.168.1.1"
+        },
+        {
+            "deviceName" : "cloudflare",
+            "deviceAddress" : "1.1.1.1"
+        }, 
+        {
+            "deviceName" : "www.ketitik.com"
+        }
+    ] 
+}
