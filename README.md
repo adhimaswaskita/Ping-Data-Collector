@@ -11,7 +11,7 @@ A system to collect Ping data from list of devices and store to persistent datab
 Clone the repo and install the dependencies.
 
 ```
-git clone 
+git clone https://github.com/adhimaswaskita/Ping-Data-Collector.git
 ```
 ```
 npm install
